@@ -9,7 +9,8 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+   # url: /publications/
+   url: https://members.loria.fr/OZendra/
 
 #- title: "Talks"
 #  url: /talks/    
