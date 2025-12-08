@@ -12,7 +12,9 @@ Welcome to Olivier Zendra’s homepage at [http://members.loria.fr/Olivier.Zendr
 *This is the academic page for Olivier ZENDRA. This is very much work-in-progress.*
 
 I’m a full-time tenured Inria researcher (Chargé de Recherche, in French) at Inria Centre at Rennes University, France. 
-There, I’m currently a member of the DiverSE team [@ Inria](https://www.inria.fr/fr/diverse) [@ IRISA](https://www.irisa.fr/equipes/diverse) (previously I was team leader of the [TAMIS team](https://www.inria.fr/en/teams/tamis), and previously a member of said team).
+There, I’m currently a member of the DiverSE team ([@ Inria](https://www.inria.fr/fr/diverse) [@ IRISA](https://www.irisa.fr/equipes/diverse)). 
+Previously I was team leader of the [TAMIS team](https://www.inria.fr/en/teams/tamis), and previously a member of said team.
+
 I'm also Cybersecurity research delegate of the Inria Centre.
 
 I hold a PhD in Computer Science, as well the HDR (Habilitation à Dirigier les Recherches) in Computer Science.
@@ -24,3 +26,5 @@ The research projects I have worked on include:
 - Low-power and low-energy, in the context of embedded systems. I lead the software part of the Open-PEOPLE (Open Power and Energy Optimization PLatform and Estimator) project.
 - Advanced visualization of software, with the VITRAIL (Advanced, Immersive and Real-Time Visualisation Software) project.
 - Cybersecurity, my new focus as of 2017.
+
+*(more to come soon)*
