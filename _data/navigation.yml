@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=olivier-zendra&CB_ref_biblio=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css
+    url: https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=olivier-zendra&typdoc=(%27ART%27,%27COMM%27,%27PROCEEDINGS%27,%27ISSUE%27,%27OUV%27,%27COUV%27,%27REPORT%27,%27THESE%27,%27HDR%27,%27MEM%27,%27SOFTWARE%27)&CB_auteur=oui&CB_titre=oui&CB_identifiant=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css
    # url: /publications/
    
 #- title: "Talks"
