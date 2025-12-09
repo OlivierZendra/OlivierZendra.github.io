@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Olivier Zendra’s homepage at [http://members.loria.fr/Olivier.Zendra](https://olivierzendra.github.io/) !
+Welcome to Olivier Zendra’s homepage at [https://olivierzendra.github.io/](https://olivierzendra.github.io/).
 
 *This is the academic page for Olivier ZENDRA. This is very much work-in-progress.*
 
