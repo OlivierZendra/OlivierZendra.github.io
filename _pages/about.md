@@ -30,7 +30,15 @@ Campus universitaire de Beaulieu,
 Avenue du Général Leclerc, 
 35042 Rennes Cedex, FRANCE
 
+## Networks: ##
+- I'm a member of HiPEAC since 2006, of the HiPEAC Steering Committee representing Inria since 2018, and member of the HiPEAC Vision Editorial Board since 2016.
+- I'm a member of GDR Sci-Log (formerly GDR GPL).
+- I'm a member of GDR Sécurité.
+- I'm a member of ECSO.
+- *TBC*
+
 ## Current research projects: ##
+- SWH-Sec (SoftWare Heritage Security).
 *todo*
 
 ## Former research projects: ##
@@ -41,12 +49,20 @@ Avenue du Général Leclerc,
 - *TBC*
 
 ## Supervisions / advising: ##
-- Valère BILLAUD (PhD student)
-- Malvin CHEVALLIER (PhD student)
-- Lise LAHOCHE (PhD student)
-- Camille MOLINIER (PhD student)
-- Alan PRADO (computer engineer)
+- Valère BILLAUD (PhD student, 03/11/2025 - ...): VulLLMGenCode: Vulnérabilités dans les codes générés par LLM.
+- Malvin CHEVALLIER (PhD student, 22/09/2025 - ... ): VulDet: Modeling, classification, and detection of vulnerabilities and their variants in software code
+bases using AI
+- Lise LAHOCHE (PhD student, 11/09/2024 - ...): Modeling, classification and detection of vulnerabilities and their variants in software code bases
+via Software Heritage
+- Camille MOLINIER (PhD student, 30/10/2024 - ...): RSIA4FL: Reinforcement of the Security of embedded AI, distributed across a set of vehicles, against attacks disrupting
+Federated Learning
+- Alan PRADO (computer engineer, 01/12/2025 - ...): Integration of project dependency information into Software Heritage, and qualification of SBOM generation tools.
+
 
 ## Alumni: ##
-*todo*
+- George Aaron RANDRIANAINA (PhD, 01/10/2021 - 28/05/2025): Smart Building of Software Variants.
+- Cassius DE OLIVEIRA PUODZIUS (PhD, 01/02/2019 - 19/12/2022): Data-driven malware classification assisted by machine learning methods.
+- Duy-Phuc PHAM (PhD, 01/09/2019 - 16/12/2022): Leveraging side-channel signals for IoT malware classification and rootkit detection.
+- Lamine NOUREDDINE (Phd, 01/11/2017 - 21/12/2021): Packing detection and classification relying on machine learning to stop malware propagation.
+- *TBC*
 
