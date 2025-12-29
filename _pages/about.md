@@ -10,16 +10,16 @@ redirect_from:
 Welcome to Olivier ZENDRA’s homepage at [https://olivierzendra.github.io/](https://olivierzendra.github.io/).
 *(work-in-progress)*
 
-I’m a full-time tenured Inria researcher (Chargé de Recherche, in French) at Inria Centre at Rennes University, France. 
+I’m a full-time tenured [Inria](https://inria.fr/en) researcher (Chargé de Recherche, in French) at the [Inria Centre at  Rennes University](https://www.inria.fr/en/inria-centre-rennes-university), France. 
 
 There, I’m currently a member of the DiverSE team ([@ Inria](https://www.inria.fr/fr/diverse) [@ IRISA](https://www.irisa.fr/equipes/diverse)). 
 Previously I was team leader of the [TAMIS team](https://www.inria.fr/en/teams/tamis), and previously a member of said team.
 
 I'm also Cybersecurity research delegate of the Inria Centre.
 
-I hold a PhD in Computer Science, as well the HDR (Habilitation à Dirigier les Recherches) in Computer Science.
-
 I used to be at Inria Nancy – Grand Est, France, as a member of the LORIA research center (UMR 7503), as member of of the project-teams ECOO, Miro, Design, and then TRIO.
+
+I hold a PhD in Computer Science, as well the HDR (Habilitation à Dirigier les Recherches) in Computer Science.
 
 ## Contact info: ##
 Email: `<firstname> dot <lastname> at inria.fr`
@@ -31,14 +31,14 @@ Avenue du Général Leclerc,
 35042 Rennes Cedex, FRANCE
 
 ## Networks: ##
-- I'm a member of HiPEAC since 2006, of the HiPEAC Steering Committee representing Inria since 2018, and member of the HiPEAC Vision Editorial Board since 2016.
-- I'm a member of GDR Sci-Log (formerly GDR GPL).
-- I'm a member of GDR Sécurité.
-- I'm a member of ECSO.
+- I'm a member of [HiPEAC](https://www.hipeac.net/) since 2006, of the HiPEAC Steering Committee representing Inria since 2018, and member of the [HiPEAC Vision](https://www.hipeac.net/vision/#/) Editorial Board since 2016.
+- I'm a member of GDR Sci-Log (formerly [GDR GPL](https://gdr-gpl.cnrs.fr/)).
+- I'm a member of [GDR Sécurité](https://gdr-securite.irisa.fr/).
+- I'm a member of [ECSO](https://ecs-org.eu/), where I represent Inria.
 - *TBC*
 
 ## Current research projects: ##
-- SWH-Sec (SoftWare Heritage Security).
+- [SWH-Sec (SoftWare Heritage Security)](https://swhsec.github.io/).
 *todo*
 
 ## Former research projects: ##
