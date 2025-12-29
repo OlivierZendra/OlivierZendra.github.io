@@ -31,7 +31,7 @@ Avenue du Général Leclerc,
 35042 Rennes Cedex, FRANCE
 
 ## Networks: ##
-- I'm a member of [HiPEAC](https://www.hipeac.net/) since 2006, of the HiPEAC Steering Committee representing Inria since 2018, and member of the [HiPEAC Vision](https://www.hipeac.net/vision/#/) Editorial Board since 2016.
+- I've been a a member of [HiPEAC](https://www.hipeac.net/) since 2006, of the HiPEAC Steering Committee representing Inria since 2018, and member of the [HiPEAC Vision](https://www.hipeac.net/vision/#/) Editorial Board since 2016.
 - I'm a member of GDR Sci-Log (formerly [GDR GPL](https://gdr-gpl.cnrs.fr/)).
 - I'm a member of [GDR Sécurité](https://gdr-securite.irisa.fr/).
 - I'm a member of [ECSO](https://ecs-org.eu/), where I represent Inria.
